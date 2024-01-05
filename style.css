@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+div{
+    margin: auto 0;
+    background-color: blue;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 100px;
+    background-color: white;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100px;
+}
+
